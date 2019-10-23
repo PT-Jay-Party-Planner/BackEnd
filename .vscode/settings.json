@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": ".\\data\\partyplanner.db3",
+            "dialect": "SQLite",
+            "name": "Party Planner"
+        }
+    ]
+}
